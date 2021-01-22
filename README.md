@@ -7,4 +7,4 @@ To download the tsv file containing SRR ftp links, search the project id in EBI 
 
 ## How to run
 
-```bash srr_ebi_download.sh tsvfile```
+```bash sra_ebi_download.sh tsvfile```
